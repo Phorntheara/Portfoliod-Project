@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+:root{
+    --main-color--900: #661390;
+    --main-color--800: #7b15b2;
+    --main-color--700: #9413dd;
+    --main-color--600: #aa23fa;
+    --main-color--500: #bb47ff;
+    --main-color--400: #ce7aff;
+    --main-color--300: #e0aeff;
+    --main-color--200: #eed1ff;
+    --main-color--100: #f6e6ff;
+}
+ /*-------------- text color------------------- */
+ .text-color-900{color: var(--main-color--900); }
+ .text-color-900{color: var(--main-color--800); }
+ .text-color-900{color: var(--main-color--700); }
+ .text-color-900{color: var(--main-color--600); }
+ .text-color-900{color: var(--main-color--500); }
+ .text-color-900{color: var(--main-color--400); }
+ .text-color-900{color: var(--main-color--300); }
+ .text-color-900{color: var(--main-color--200); }
+ .text-color-900{color: var(--main-color--100); }
+ 
+ /*-------------- bg color------------------- */
+ .bg-color-900{background: var(--main-color--900); }
+ .bg-color-900{background: var(--main-color--800); }
+ .bg-color-900{background: var(--main-color--700); }
+ .bg-color-900{background: var(--main-color--600); }
+ .bg-color-900{background: var(--main-color--500); }
+ .bg-color-900{background: var(--main-color--400); }
+ .bg-color-900{background: var(--main-color--300); }
+ .bg-color-900{background: var(--main-color--200); }
+ .bg-color-900{background: var(--main-color--100); }
